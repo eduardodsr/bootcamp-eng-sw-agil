@@ -3,7 +3,9 @@
 ### Engenharia de Software
 
 * **O que é a Engenharia de Software?**
-“Aplicação de uma abordagem sistemática, disciplinada e quantificável para o desenvolvimento, operaçãoe manutençãode software”.
+
+- “Aplicação de uma abordagem sistemática, disciplinada e quantificável para o desenvolvimento, operaçãoe manutençãode software”.
+
 (ISO/IEC/IEEE 24765:2017(E) Second edition 2017-09)
 
  <p>
@@ -14,8 +16,8 @@
 
 
 * **O que faz parte da “aplicação da engenharia ao software”?**
-–ISO/IECTR19759(second edition 2015-10-01)
-Guide to the **Software Engineering Body Of Knowledge (SWEBOK)**
+
+- Guide to the **Software Engineering Body Of Knowledge (SWEBOK)**
 (Guia para o corpo de conhecimento da Engenharia de Software)
 
 - 1.Requisitos de Software
@@ -33,6 +35,7 @@ Guide to the **Software Engineering Body Of Knowledge (SWEBOK)**
 - 13.Fundamentos de Computação
 - 14.Fundamentos de Matemática
 - 15.Fundamentos de Engenharia
+
 https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3
 
 ### Programa
