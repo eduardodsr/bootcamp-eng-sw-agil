@@ -142,9 +142,9 @@ O objetivo do Bootcamp é apresentar os conceitos fundamentais, práticas e ferr
 
 
 #### DOCUMENTAÇÃO:
-[Links - Notas](https://github.com/eduardodsr/bootcamp-eng-sw-agil/M1-Fundamentos/Notes.md)
+[Links - Notas](https://github.com/eduardodsr/bootcamp-eng-sw-agil/blob/main/M1-Fundamentos/Notes.md)
 
-[Links - Trabalho & Desafio](https://github.com/eduardodsr/bootcamp-eng-sw-agil/M1-Fundamentos/Trabalho%26Desafio.md)
+[Links - Trabalho & Desafio](https://github.com/eduardodsr/bootcamp-eng-sw-agil/blob/main/M1-Fundamentos/Trabalho%26Desafio.md)
 
 <br>
 
